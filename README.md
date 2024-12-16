@@ -21,7 +21,8 @@ This project is an automated digital advertising platform designed for businesse
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 <br>
-![image](https://github.com/user-attachments/assets/cf8beae5-bac9-41f7-947c-d37d949576fd)
+![image](https://github.com/user-attachments/assets/96ff2cdf-84b8-4f97-9d5c-1724ef2cf997)
+
 
 
 
